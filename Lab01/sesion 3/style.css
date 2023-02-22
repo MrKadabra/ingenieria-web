@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  a {
+    align-items: right;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #zodiac{
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+}
