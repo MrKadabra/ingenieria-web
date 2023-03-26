@@ -1,0 +1,13 @@
+.d-item {
+  height: 931px;
+}
+
+.d-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+
+a {
+  color: white;
+}
